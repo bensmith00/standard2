@@ -9,7 +9,7 @@
 
 /* Nav Bar and logo */ 
 header {
-    background: #55d6aa;
+    background: #5c5e5d;
 }
 
 .logo {
@@ -32,8 +32,29 @@ nav li {
     padding-top: 2em;
 }
 
-/**/
+/* Showcase */
 
+#showcase{
+    min-height: 400px;
+    background-image: url("../img/fog-foggy-hazy-89773.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: #000000;
+
+}
+
+#showcase h1{
+    margin-top: 100px;
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+
+#showcase p{
+    font-size: 20px;
+}
+
+/**/
 
 body {
     margin: 0;
@@ -54,4 +75,4 @@ img {
     display: block;
     height: 100px;
     width: auto;
-}
+}/**/
