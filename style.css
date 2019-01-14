@@ -75,4 +75,13 @@ img {
     display: block;
     height: 100px;
     width: auto;
-}/**/
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a {
+    color: black;
+}
+/**/
