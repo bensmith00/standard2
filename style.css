@@ -77,8 +77,10 @@ body {
 
 img {
     display: block;
-    height: 100px;
+    height: 200px;
     width: auto;
+    margin: auto;
+    padding: 1em; 
 }
 
 a:link {
@@ -95,5 +97,14 @@ h2 a {
 a {
     color: #ffffff;
 }
+
+/* Flexbox */
+
+.flexContainer {
+    display: flex;
+}
+
+
+
 
 /**/
