@@ -69,6 +69,10 @@ body {
     background-color: aliceblue;
 }
 
+.container p {
+    margin: 0 1em;
+}
+
 .containerNav,
 .containerShowcase {
     width: 80%;
